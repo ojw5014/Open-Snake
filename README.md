@@ -12,7 +12,7 @@ This project is perfect for:
 
 ## 🎬 Watch It in Action
 
-### 1️⃣ Slithering on Curved Surface  
+### 1️⃣ Slithering on Curved Surface  (and... assembling)
 [![Video 1](https://img.youtube.com/vi/h0bHZ_Ra9OY/0.jpg)](https://youtu.be/h0bHZ_Ra9OY)
 
 👉 [Watch on YouTube](https://youtu.be/h0bHZ_Ra9OY?si=mw3a8K3SPtbjuDOo)
@@ -25,6 +25,41 @@ This project is perfect for:
 👉 [Watch on YouTube](https://youtu.be/5Tr2ZO-IKu0?si=_ELYOdXuaDLJPf6L)
 
 ---
+
+## 🎥 Additional Demonstration Videos
+
+Explore more test environments and motion patterns of Open-Snake:
+
+---
+
+### 🔁 3-Axis Undulatory Motion (with Twist)
+[![Video A](https://img.youtube.com/vi/ao1gBglVeOY/0.jpg)](https://youtu.be/ao1gBglVeOY)  
+👉 [Watch on YouTube](https://youtu.be/ao1gBglVeOY)
+
+---
+
+### 📐 Sharp Angle Traversal (Segment Flexibility Test)
+[![Video B](https://img.youtube.com/vi/3CEjuPAVRLE/0.jpg)](https://youtu.be/3CEjuPAVRLE)  
+👉 [Watch on YouTube](https://youtu.be/3CEjuPAVRLE)
+
+---
+
+### 🧪 Longitudinal Movement Through Pipe
+[![Video C](https://img.youtube.com/vi/01R4jejPqz8/0.jpg)](https://youtu.be/01R4jejPqz8)  
+👉 [Watch on YouTube](https://youtu.be/01R4jejPqz8)
+
+---
+
+### 🌊 Smooth Oscillation on Flat Surface
+[![Video D](https://img.youtube.com/vi/VN9_0te3Hug/0.jpg)](https://youtu.be/VN9_0te3Hug)  
+👉 [Watch on YouTube](https://youtu.be/VN9_0te3Hug)
+
+---
+
+### 🐍 Compact Zig-Zag Movement (Wave Timing Test)
+[![Video E](https://img.youtube.com/vi/9r-uT1uWE80/0.jpg)](https://youtu.be/9r-uT1uWE80)  
+👉 [Watch on YouTube](https://youtu.be/9r-uT1uWE80)
+
 
 ## 🔧 Key Features
 

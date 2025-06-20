@@ -1,4 +1,4 @@
-# 🐍 Open-Snake – Modular Snake Robot with DYNAMIXEL 2XC
+# 🐍 Open-Snake – Modular Snake Robot with DYNAMIXEL 2XC(or 2XL)
 
 **Open-Snake** is an open-source snake robot project built using **DYNAMIXEL 2XC-series motors**.  
 It demonstrates serpentine locomotion through chained modular segments, inspired by real snakes.
